@@ -7,7 +7,7 @@
 - - -
 
 # How To Use
-either get the system from the `src` folder on this repo or grab it from roblox [here](#). Then put in in `ReplicatedStorage` or `ServerStorage` (for example).
+Either get the system from the `src` folder on this repo or grab it from roblox [here](https://www.roblox.com/library/11300068061/TriTerrain). Then put in in `ReplicatedStorage` or `ServerStorage` (for example).
 
 ## API
 ```
