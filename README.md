@@ -42,15 +42,14 @@ local start = tick()
 
 -- Generates The Chunks.
 for x = 0,(WIDTH-1) do
-	for z = 0,(DEPTH-1) do
-		for y = -HEIGHT,0 do
-			TriTerrain.new(x,y,z):gen()
-		end
+    for z = 0,(DEPTH-1) do
+	for y = -HEIGHT,0 do
+	    TriTerrain.new(x,y,z):gen()
 	end
-	Swait()
+    end
+    Swait()
 end
 
 -- Prints The Amount Of Time It Took To Generate.
 print(tick()-start)
-
 ```
