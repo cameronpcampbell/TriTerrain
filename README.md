@@ -53,3 +53,8 @@ end
 -- Prints The Amount Of Time It Took To Generate.
 print(tick()-start)
 ```
+
+- - -
+
+![image](https://user-images.githubusercontent.com/66361859/196065559-11194f14-19da-4dd2-98b7-139526d34672.png)
+
