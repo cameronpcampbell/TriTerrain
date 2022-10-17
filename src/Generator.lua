@@ -191,7 +191,7 @@ end
 
 -- Inits The Part Pool For The Wedges (Tris).
 function PartTerrain.init(tris)
-	TerrainCache = PartCache.new(Triangle, tris, workspace.Terrain)
+	TerrainCache = PartCache.new(Triangle, tris)
 	return TerrainCache
 end
 
