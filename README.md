@@ -56,6 +56,6 @@ print(tick()-start)
 
 - - -
 
-![image](![image](https://user-images.githubusercontent.com/66361859/196065591-34e21dae-5426-475d-9a2b-762dba5cb970.png)
+![image](https://user-images.githubusercontent.com/66361859/196065591-34e21dae-5426-475d-9a2b-762dba5cb970.png)
 
 
